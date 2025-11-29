@@ -7,7 +7,11 @@
 # Overall = O(N)
 
 def solution(a: list[int]) -> int:
-    """Find the value that occurs in odd number of elements."""
+    """
+    Each element of array A appears an even number of times,
+    except for one element which appears an odd number of times.
+    Return that odd occurring element.
+    """
     result = 0
     # XOR is commutative, associative and self-inverse.
     # All pairs cancel, leaving the odd occurring number
