@@ -26,6 +26,5 @@ def solution(a: list[int]) -> int:
     # "each element of array A is an integer within the range [−2,147,483,648..2,147,483,647].""
 
     # Note on non-positive lengths:
-    #   If A[i] <= 0, 
-    #   A[i+1] <= A[i+2], always since sorted order
+    #   If A[i] <= 0 and A[i+1] <= A[i+2], always since sorted order,
     #   then A[i] + A[i+1] <= A[i+2], the condition A[i] + A[i+1] > A[i+2] fails
