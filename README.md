@@ -1,6 +1,6 @@
 # Codility Python Solutions
 
-This repository contains my personal Python solutions for the Codility programming lessons. Each file is named according to the lesson number and the problem title.
+This repository contains my personal Python solutions for the Codility programming lessons which pass 100% of all tests. Each file is named according to the lesson number and the problem title. In addition to the code, each file contains a detailed explanation of the thought process and an analysis of the time complexity. Citations can be found for any solutions referenced or adapted from other sources.
 
 ## Solutions
 
